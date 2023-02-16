@@ -23,7 +23,7 @@ const leftBar = () => {
             <span>John Doe</span>
           </div> */}
           <div className="item">
-            <img src={Friends} alt="oi" />
+            <img src={Friends} alt="" />
             <span>Friends</span>
           </div>
           <div className="item">
